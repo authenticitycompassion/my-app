@@ -1,0 +1,1 @@
+import{_ as r}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{e as o,c,o as s,a}from"./index-BbsSvq2p.js";const t={},n={class:"loader"};function _(i,l){const e=o("v-progress-circular");return s(),c("div",n,[a(e,{"model-value":"20",indeterminate:"",color:"primary"})])}const d=r(t,[["render",_]]);export{d as L};
